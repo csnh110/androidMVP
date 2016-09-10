@@ -1,1 +1,1 @@
-这是学习androidMvp相关的项目
+这是学习androidMvp相关的项目，我想让这个世界更和平！
